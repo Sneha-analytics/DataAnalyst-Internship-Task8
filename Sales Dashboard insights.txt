@@ -1,0 +1,19 @@
+Sales Dashboard Insights:
+
+1.The West region achieved the highest total sales, significantly outperforming other regions.
+
+2.The East region recorded the lowest sales, indicating potential for targeted marketing.
+
+3.Sales peaked in November 2017, possibly driven by seasonal or promotional events.
+
+4.Technology was the top-performing category, contributing the largest share to overall revenue.
+
+5.Furniture sales showed steady growth over time but remained below Technology in total value.
+
+6.Office Supplies category maintained consistent sales but had the lowest contribution among the three categories.
+
+7.Quarterly trends show strong growth in Q4
+
+8.Regional comparison indicates that West leads across all categories, especially in Technology.
+
+9.East region shows potential improvement opportunities in Furniture and Office Supplies segments.
